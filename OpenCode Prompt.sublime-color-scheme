@@ -1,0 +1,13 @@
+{
+    "name": "OpenCode Prompt",
+    "globals": {
+        "background": "#f7f8fa",
+        "foreground": "#202632",
+        "caret": "#335cc5",
+        "selection": "#dce7fc",
+        "selection_foreground": "#202632",
+        "line_highlight": "#f7f8fa",
+        "accent": "#335cc5"
+    },
+    "rules": []
+}

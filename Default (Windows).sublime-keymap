@@ -1,0 +1,33 @@
+[
+    {
+        "keys": ["ctrl+alt+o"],
+        "command": "opencode_open_agent"
+    },
+    {
+        "keys": ["ctrl+enter"],
+        "command": "opencode_submit_composer",
+        "context": [
+            {
+                "key": "setting.opencode_composer",
+                "operator": "equal",
+                "operand": true
+            }
+        ]
+    },
+    {
+        "keys": ["enter"],
+        "command": "commit_completion",
+        "context": [
+            {"key": "setting.opencode_composer", "operator": "equal", "operand": true},
+            {"key": "auto_complete_visible", "operator": "equal", "operand": true}
+        ]
+    },
+    {
+        "keys": ["tab"],
+        "command": "commit_completion",
+        "context": [
+            {"key": "setting.opencode_composer", "operator": "equal", "operand": true},
+            {"key": "auto_complete_visible", "operator": "equal", "operand": true}
+        ]
+    }
+]

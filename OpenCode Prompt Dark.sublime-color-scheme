@@ -1,0 +1,13 @@
+{
+    "name": "OpenCode Prompt Dark",
+    "globals": {
+        "background": "#1b202b",
+        "foreground": "#e1e7f1",
+        "caret": "#8eafff",
+        "selection": "#354768",
+        "selection_foreground": "#e1e7f1",
+        "line_highlight": "#1b202b",
+        "accent": "#8eafff"
+    },
+    "rules": []
+}

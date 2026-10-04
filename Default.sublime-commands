@@ -1,0 +1,46 @@
+[
+    {
+        "caption": "OpenCode: Agent",
+        "command": "opencode_open_agent"
+    },
+    {
+        "caption": "OpenCode: Choose Agent",
+        "command": "opencode_choose_agent"
+    },
+    {
+        "caption": "OpenCode: Choose Model",
+        "command": "opencode_choose_model"
+    },
+    {
+        "caption": "OpenCode: Choose Color Mode",
+        "command": "opencode_choose_color"
+    },
+    {
+        "caption": "OpenCode: New Session",
+        "command": "opencode_new_session"
+    },
+    {
+        "caption": "OpenCode: Sessions in This Project",
+        "command": "opencode_choose_session"
+    },
+    {
+        "caption": "OpenCode: Rename Session",
+        "command": "opencode_rename_session"
+    },
+    {
+        "caption": "OpenCode: View Session Changes",
+        "command": "opencode_show_changes"
+    },
+    {
+        "caption": "OpenCode: Stop Current Run",
+        "command": "opencode_abort"
+    },
+    {
+        "caption": "OpenCode: Close Agent",
+        "command": "opencode_close_agent"
+    },
+    {
+        "caption": "OpenCode: Refresh Project Files",
+        "command": "opencode_refresh_files"
+    }
+]

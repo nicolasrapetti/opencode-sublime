@@ -1,0 +1,20 @@
+{
+    "color_mode": "light",
+    "last_agent": null,
+    "last_model": null,
+    "opencode_executable": null,
+    "project_sessions": {},
+    "context_excluded_folders": [
+        ".git",
+        ".svn",
+        ".hg",
+        "node_modules",
+        ".venv",
+        "venv",
+        "__pycache__",
+        "dist",
+        "build",
+        ".next",
+        ".nuxt"
+    ]
+}
